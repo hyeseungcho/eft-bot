@@ -1,0 +1,21 @@
+항목,내용
+한글명,KOSEF 200선물레버리지
+영문명,KOSEF 200 Futures Leverage
+표준코드,KR7253250005
+종목코드,253250
+상장일,2016-09-12
+펀드형태,수익증권형
+기초지수명,코스피 200 선물레버리지지수
+추적배수,2X 레버리지 (2)
+자산운용사,키움투자자산운용(주)
+지정참가회사(AP),"키움증권, 미래에셋대우, KB투자증권, 메리츠종금증권, SK증권"
+총보수(%),0.46
+회계기간,"매년 1월 1일부터 12월 31일까지. (단, 최초 회계기간은 최초 설정일로부터 2016년 12월 31일까지)"
+과세유형,배당소득세(보유기간과세)
+분배금 지급일,"회계기간 종료일(다만, 회계기간 종료일이 영업일이 아닌 경우 그 직전 영업일)"
+홈페이지,http://www.kosef.co.kr
+http://www.kosef.co.kr,http://www.kosef.co.kr
+기초 시장,(국내) (코스피) (-)
+기초 자산,(주식) (시장대표) / (-) (-) / (-)
+기본 정보,"1좌당 순자산가치의 변동률을 기초지수인 코스피200선물지수(F-KOSPI200 지수)의 일간 변동률의 양의 2배수로 연동하여 투자신탁재산을 운용하는 것을 목표로 합니다. 한국거래소가 산출하는 코스피200선물지수는 한국거래소에 상장되어 거래되는 코스피200선물 중 최근월물의 가격 움직임을 나타내는 지수입니다. 최근월 종목의 만기도래 시, 최종 거래일 및 직전 거래일 포함 4거래일간 매일 25%씩 거래량가중평균 가격으로 차근월물로 교체함으로써 코스피200선물 가격을 연속성 있게 나타냅니다. 따라서 이 지수에 기초한 KOSEF 200 선물 레버리지 ETF는 코스피200선물 상승에 투자해 수익을 추구합니다."
+투자유의사항,"Aims to run investment trust assets in a way to make the daily volatility of the net asset value per share similar to the twice the daily volatility of F-KOSPI200 Index, which is the underlying index. F-KOSPI200 Index, calculated by KRX, is an index that represents the trend of the price of nearby month contracts among the KOSPI200 futures listed and traded on KRX. It represents the price of KOSPI200 futures with continuity by, on the expiration period of nearby month contract, separating the nearby month contract into four and replacing them with second nearby month contract respectively on each of the final transaction day and the three transaction days immediately before the final transaction day. Therefore, KOSEF 200 Futures Leverage based on this index can profit from investing in KOSPI200 futures increase."
